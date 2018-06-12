@@ -5,7 +5,7 @@
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
 url: "http://mattiaswoldu.github.io"
-baseurl: "mattiaswoldu.io"
+#baseurl: "mattiaswoldu.io"
 
 # If you are building a GitHub project page then use these settings:
 #url: "http://mattiaswoldu.github.io/mattiaswoldu"
@@ -17,7 +17,7 @@ baseurl: "mattiaswoldu.io"
 title: Mattias Woldu
 
 # Short description of your site
-description: 
+description: Something something
 
 # --- Navigation bar options --- #
 
